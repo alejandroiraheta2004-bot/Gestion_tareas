@@ -1,0 +1,5 @@
+- Crear la tabla de comentarios en la base de datos blogdb
+- Crear controlador con el CRUD de los comentarios
+- Crear las interacciones en la base de datos en el modelo
+- Crear las rutas necesarias par los comentarios
+- Minimo de ser un CRUD para la tbla de comentarios
