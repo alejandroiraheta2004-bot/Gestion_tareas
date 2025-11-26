@@ -1,4 +1,7 @@
+// import pool from '../config/database.js';
 import { pool } from '../config/database.js';
+
+
 
 export const User = {
     async create({ name, email, password, role = 'user' }) {
