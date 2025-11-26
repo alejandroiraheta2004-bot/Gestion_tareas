@@ -7,7 +7,7 @@
 
   "scripts": {
     "start": "node src/server.js",
-    "dev": "nodemon --watch src --exec node src/server.js"
+    "dev": "nodemon node src/server.js"
   },
   "keywords": [],
   "author": "",
